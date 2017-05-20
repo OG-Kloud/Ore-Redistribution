@@ -1,0 +1,16 @@
+[
+{
+  "modid": "orekloud",
+  "name": "Ore Re-Distribution",
+  "description": "Re_Distributing the ores for more versitility",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kloud"],
+  "credits": "Kloud",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
