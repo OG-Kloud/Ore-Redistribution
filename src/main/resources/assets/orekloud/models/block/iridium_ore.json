@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "orekloud:blocks/iridium_ore"
+	}
+}
